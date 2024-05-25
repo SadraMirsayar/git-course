@@ -1,4 +1,4 @@
-x = int(input())
-y = int(input())
+x = int(input("Enter x: "))
+y = int(input("Enter y: "))
 
-print(x/y)
+print(f"{x} / {y} = {x/y}")
